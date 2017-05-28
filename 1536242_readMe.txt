@@ -1,0 +1,12 @@
+
+To have the script working you need to put back the necessary files in the relative folders
+
+the MG4J package in the folder 'Homework_1_software'
+
+the Cranfield data-set in the folder'cranData/Cranfield_DATASET'
+
+the Time data-set in the folder'timeData/Time_DATASET'
+
+the only think you can run without those files is the python script 1536242_plotScript.py
+
+> python 1536242_plotScript.py
